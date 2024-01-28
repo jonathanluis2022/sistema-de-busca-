@@ -9,4 +9,4 @@ Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs, ou novas funcionalidades.
 
 Autor
-Jonathan Luis - jonathanluis2024 - jonathan.luisrodrigues@hotmail.com
+Jonathan Luis - jonathanluis2024.com - jonathan.luisrodrigues@hotmail.com
