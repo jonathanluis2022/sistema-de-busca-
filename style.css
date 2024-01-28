@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #50565c; /* Cinza claro */
+}
+
+.container {
+    width: 400px;
+    background-color: #ffffff; /* Branco */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.pesquisa {
+    margin-bottom: 20px;
+}
+
+.pesquisa input[type="text"] {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 250px;
+    margin-right: 10px;
+}
+
+.pesquisa button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #dc3545; /* Vermelho */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.pesquisa button:hover {
+    background-color: #c82333; /* Vermelho mais escuro */
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+th {
+    background-color: #007bff; /* Azul */
+    color: white;
+    text-align: left;
+}
